@@ -57,7 +57,7 @@
       Take the Next Step Toward Your Personal and Professional Goals
     </h2>
     <p class="text-md sm:text-xl mb-6">
-      Elevate your career and life with Pep Software. Our training programs provide the tools and knowledge you need to achieve your goals. Join us and unlock your full potential.
+      Elevate your career and life with Pep Software. Our training programs provide the tools and knowledge you need to achieve your goals. Join us and unlock your full potential
     </p>
 
     <!-- Explore Courses Button -->
