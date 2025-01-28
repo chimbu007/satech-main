@@ -1,0 +1,560 @@
+[
+    {
+        "id": 1,
+        "image": "/courses/Front end.jpg",
+        "name": "Frontend Development Course",
+        "description": "Master the skills to create dynamic, responsive, and visually appealing websites with our Frontend Development Course. This course is designed for beginners and focuses on real-world projects and modern technologies to prepare you for the booming web development industry.",
+        "highlights": [
+            {
+                "studentLevel": "Beginner",
+                "duration": "3 Months",
+                "mode": "Online Classes",
+                "certification": "Yes"
+            }
+        ],
+        "whyChoose": [
+            "Build expertise in the latest frontend development technologies.",
+            "Gain hands-on experience through real-world projects.",
+            "Learn from industry professionals and receive personalized guidance.",
+            "Boost your career opportunities with a professional certificate and portfolio."
+        ],
+        "syllabus": [
+            {
+                "section": "Fundamentals of Web Development",
+                "lessons": [
+                    "Introduction to Web Development: Basics of websites, client-server architecture, and frontend technologies.",
+                    "HTML Basics: Structured, semantic HTML, forms, tables, and multimedia.",
+                    "CSS Basics: Selectors, properties, box model, and page styling.",
+                    "Introduction to JavaScript: Variables, loops, events, and interactivity."
+                ]
+            },
+            {
+                "section": "Advanced Design Principles",
+                "lessons": [
+                    "Responsive Web Design: Mobile-friendly websites using media queries.",
+                    "CSS Layout Systems: Flexbox and Grid for complex layouts.",
+                    "Bootstrap Framework: Pre-built responsive design components."
+                ]
+            },
+            {
+                "section": "JavaScript Frameworks",
+                "lessons": [
+                    "Introduction to React.js: Component-based architecture, state management, and hooks.",
+                    "Basics of Angular: SPAs, MVC framework, and routing."
+                ]
+            },
+            {
+                "section": "Individual Projects",
+                "lessons": [
+                    "Responsive Portfolio Website: Showcase your skills.",
+                    "Weather Forecast Web App: Real-time weather data using APIs."
+                ]
+            }
+        ],
+        "faq": [
+            {
+                "question": "Do I need prior coding knowledge?",
+                "answer": "No prior coding knowledge is required—this course is designed for beginners."
+            },
+            {
+                "question": "What does the course cover?",
+                "answer": "The course offers a balance of theoretical knowledge and hands-on practical skills."
+            },
+            {
+                "question": "Are live sessions recorded?",
+                "answer": "All live sessions are recorded and available for review."
+            },
+            {
+                "question": "Will this course help me get a job?",
+                "answer": "The course equips you with a portfolio to apply for roles like Frontend Developer or Web Designer."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "/courses/ui-ux.jpg",
+        "name": "UI/UX Design Course",
+        "description": "Our UI/UX Design Course is perfect for beginners who want to craft visually stunning user interfaces (UI) and seamless user experiences (UX). You will master tools like Figma, Adobe XD, and Illustrator while developing a deep understanding of user-centered design principles.",
+        "highlights": [
+            {
+                "studentLevel": "Beginner",
+                "duration": "3 Months",
+                "mode": "Online Classes",
+                "certification": "Yes"
+            }
+        ],
+        "whyChoose": [
+            "Gain expertise in industry-standard design tools.",
+            "Learn from experienced mentors with real-world knowledge.",
+            "Build a professional portfolio to showcase your skills.",
+            "Unlock exciting career opportunities in the booming tech and design industries."
+        ],
+        "syllabus": [
+            {
+                "section": "UX Design Foundations",
+                "lessons": [
+                    "Introduction to UI/UX: Fundamentals and roles in product development.",
+                    "User Research and Empathy Mapping: Insights for better design.",
+                    "User Personas and Stories: Represent target audiences.",
+                    "User Journey Mapping: Visualize user experiences.",
+                    "Problem Definition: Address user pain points effectively.",
+                    "User Scenarios and Storyboarding: Validate interactions.",
+                    "Card Sorting and Information Architecture: Enhance usability.",
+                    "Heuristic Evaluation: Evaluate usability principles.",
+                    "Usability Testing: Gather feedback from real users.",
+                    "Affinity Mapping and Iterative Design: Refine for optimal experiences."
+                ]
+            },
+            {
+                "section": "UI Design Essentials",
+                "lessons": [
+                    "Web and Mobile Layouts: Responsive design principles.",
+                    "Wireframing and Prototyping: Low- and high-fidelity prototypes.",
+                    "Colors and Typography: Theory, accessibility, and standards.",
+                    "Navigation Design: Intuitive navigation systems.",
+                    "Material Design and Design Systems: Scalable, modern designs."
+                ]
+            },
+            {
+                "section": "Tools and Techniques",
+                "lessons": [
+                    "Figma (Advanced): Collaborative design and prototyping.",
+                    "Adobe XD (Advanced): Prototyping and UX tools.",
+                    "Illustrator and Asset Creation: Icons, illustrations, and assets."
+                ]
+            },
+            {
+                "section": "Hands-On Projects",
+                "lessons": [
+                    "Static Website UI Design: Professional UI design.",
+                    "Mobile App Design: Interactive, user-friendly prototypes."
+                ]
+            }
+        ],
+        "faq": [
+            {
+                "question": "Do I need coding knowledge?",
+                "answer": "No coding knowledge is required. This course focuses entirely on design."
+            },
+            {
+                "question": "Does the course help with job placement?",
+                "answer": "We provide guidance and resources for job placements in UI/UX roles."
+            },
+            {
+                "question": "Can I add projects to my portfolio?",
+                "answer": "Yes, you will work on projects that can be added to your professional portfolio."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "/courses/Photoshop.jpg",
+        "name": "Graphic Designing Course",
+        "description": "Unleash your creativity and develop professional-level graphic design skills in this beginner-friendly course. Gain hands-on experience with real-world projects and master tools like Adobe Photoshop and Illustrator.",
+        "highlights": [
+            {
+                "studentLevel": "Beginner",
+                "duration": "3 Months",
+                "mode": "Online / Offline (Live Classes) ",
+                "certification": "Yes"
+            }
+        ],
+        "whyChoose": [
+            "Master Industry Tools: Proficiency in Adobe Photoshop, Illustrator, and Figma", 
+            "Hands-On Experience: Learn through practical projects tailored to industry standards.",  
+            "Portfolio Development: Build a showcase of professional-level work for job applications.",  
+            "Career Opportunities: Prepare for roles such as Graphic Designer, Visual Designer, or UI/UX Designer." 
+            
+        ],
+        "syllabus": [
+            {
+                "section": "Module 1: Fundamentals of Design",
+                "lessons": [
+                    "Introduction to Graphic Design: Explore design principles: balance, contrast, emphasis, and hierarchy,Understand the design process and its applications. ", 
+                    "Color Theory and Typography : Learn how to use color psychology and typography effectively , Create visually cohesive and impactful designs."
+                    
+                ]
+            },
+            {
+                "section": "Module 2: Design Tools",
+                "lessons": [
+                    "Adobe Photoshop Essentials: Image editing, layering, and effects, Create marketing materials such as posters and flyers. ", 
+                    "Adobe Illustrator Basics: Master vector design for logos and icons, Advanced use of tools like the Pen Tool and Pathfinder. "
+                    ]
+            },
+            {
+                "section": "Module 3: Advanced Design Techniques",
+                "lessons": [
+                    "Brand Identity Design: Develop logos, brand kits, and marketing materials.",
+                    "UI/UX Basics: Introduction to wireframing and prototyping with tools like Figma."
+                    ]
+            },
+            {
+                "section": "Module 4: Portfolio Projects",
+                "lessons": [
+                    "Project 1: Personal Branding Kit : Create a logo, business card, and social media assets. ", 
+                    "Project 2: Promotional Campaign Design : Develop a complete campaign for a product or event."
+                    ]
+            }
+        ],
+        "faq": [
+            {
+                "question": "Do I need prior design experience?",
+                "answer": " No, this course is designed for complete beginners. " 
+            },
+            {
+                "question": "Will I receive software access?",
+                "answer": "Guidance is provided for accessing free trials or software subscriptions."
+            },
+            {
+                "question": "What career opportunities can I explore after this course?",
+                "answer": "Roles like Graphic Designer, Branding Specialist, or Visual Content Creator."
+            },
+            {
+                "question": "Is the course project-based?",
+                "answer": "Yes, all modules incorporate hands-on projects to build your portfolio."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "/courses/After effects.jpg",
+        "name": "Auto CAD Course",
+        "description": "Learn 2D and 3D drafting with AutoCAD, the industry standard for engineering, architecture, and design. This course is tailored for beginners to develop professional-level skills.",
+        "highlights": [
+            {
+                "studentLevel": "Beginner to Intermediate",
+                "duration": "2 Months",
+                "mode": "Online/Offline (Live Classes)",
+                "certification": "Yes"
+            }
+        ],
+        "whyChoose": [
+            "Learn Industry Standards : Master essential drafting skills for engineering and design.  ",
+            "Hands-On Training : Work on practical projects to gain confidence.  ",
+            "Career Opportunities : Prepare for roles like CAD Technician or Design Engineer."  
+        ],
+        "syllabus": [
+            {
+                "section": "Module 1: Introduction to AutoCAD",
+                "lessons": [
+                    "Getting Started with CAD : Overview of computer-aided design in various industries. ",
+                    "Interface and Navigation : Learn tools, menus, and command shortcuts.  "
+                      ]
+            },
+            {
+                "section": "Module 2: 2D Drafting",
+                "lessons": [
+                    "Basic Drafting Commands : Lines, arcs, polylines, and annotations. ",
+                    "Layers and Templates : Organizing designs for better clarity and efficiency. "
+                    ]
+            },
+            {
+                "section": "Module 3: 3D Modeling",
+                "lessons": [
+                    "Solid and Surface Modeling : Extrusions, lofts, and sweeps. ",
+                    "Rendering and Visualization : Apply materials and create realistic renders. "
+                    ]
+            },
+            {
+                "section": "Module 4: Practical Projects",
+                "lessons": [
+                    "Project 1: Floor Plan Drafting : Create a detailed 2D layout of a building.  ",
+                    "Project 2: Mechanical 3D Model : Design and render a mechanical component.  "
+                ]
+            }
+        ],
+        "faq": [
+            {
+                "question": "Is this course for beginners?",
+                "answer": "Yes, no prior experience is required. "
+            },
+            {
+                "question": "What software is needed for the course?",
+                "answer": "AutoCAD; guidance for installation is provided."
+            },
+            {
+                "question": "Can I use this for architecture or mechanical design?",
+                "answer": "Absolutely! The course is versatile for multiple industries. "
+            },
+            {
+                "question": "Will I receive certification?",
+                "answer": " Yes, upon completing the course and projects. "
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "/courses/Illustrator.jpg",
+        "name": "Full Stack Development Course",
+        "description": "Become a versatile developer skilled in building complete web applications. Learn both frontend and backend technologies and work on projects that demonstrate your expertise.",
+        "highlights": [
+            {
+                "studentLevel": "Beginner",
+                "duration": "6 Months",
+                "mode": "Online/Offline (Live Classes) ",
+                "certification": "Yes"
+            }
+        ],
+        "whyChoose": [
+            "Master Both Frontend and Backend: Learn the complete development cycle.",  
+            "Hands-On Experience: Work on real-world projects to showcase in your portfolio.",  
+            "Career Opportunities: Prepare for roles such as Full Stack Developer, Web Developer, or Software Engineer."  
+
+        ],
+        "syllabus": [
+            {
+                "section": "Module 1: Frontend Development",
+                "lessons": [
+                    "HTML, CSS, and JavaScript Fundamentals : Build the foundation of web development, Work with semantic HTML, CSS properties, and JavaScript events. ",
+                    "Responsive Web Design : Learn Flexbox, Grid, and Bootstrap for mobile-friendly websites." ,
+                    "React.js Basics : Understand component-based architecture, state management, and hooks."  
+                   
+                ]
+            },
+            {
+                "section": "Module 2: Backend Development",
+                "lessons": [
+                     "Node.js and Express Basics : Build scalable server-side applications. " ,
+                     "Database Management : CRUD operations using MongoDB and SQL basics. ",
+                     "Authentication and Authorization : Secure apps with JWT and OAuth protocols. "
+                    
+                ]
+            },
+            {
+                "section": "Module 3: Deployment",
+                "lessons": [
+                    "Version Control with Git : Collaborate using Git and GitHub.",
+                    "Hosting Applications : Deploy apps on platforms like AWS, Heroku, and Netlify. "
+                ]
+            },
+            {
+                "section": "Module 4: Capstone Projects",
+                "lessons": [
+                    "Project 1: Blogging Platform : Create a web app with user authentication and CRUD functionality. ",
+                    "Project 2: E-Commerce Website : Develop an online store with payment gateway integration. "
+                ]
+            }
+        ],
+        "faq": [
+            {
+                "question": "Do I need programming experience to enroll?",
+                "answer": "No, this course starts with the basics of programming."
+            },
+            {
+                "question": "What technologies will I learn?",
+                "answer": "Technologies include HTML, CSS, JavaScript, React.js, Node.js, Express, and MongoDB."
+            },
+            {
+                "question": "Will I be job-ready after this course?",
+                "answer": "Yes, the course equips you with a strong portfolio and in-demand skills."
+            },
+            {
+                "question": "Are the projects mandatory?",
+                "answer": "Yes, completing projects is essential for skill application and certification."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "/courses/3d-modeling.jpg",
+        "name": "Blender Modelling and Animation",
+        "description": "Master 3D modeling, texturing, and animation in Blender, an open-source tool used in games, movies, and AR/VR. Perfect for beginners aiming to enter the 3D industry.",
+        "highlights": [
+            {
+                "studentLevel": "Beginner",
+                "duration": "3 Months",
+                "mode": "Online/Offline (Live Classes) ",
+                "certification": "Yes"
+            }
+        ],
+        "whyChoose": [
+            "Master an Open-Source Tool : Blender is free and powerful for 3D design. ",
+            "Hands-On Practice : Projects build your skills in modeling, texturing, and animation. ",
+            "Career Opportunities : Work as a 3D Artist, Animator, or Game Designer. "
+        ],
+        "syllabus": [
+            {
+                "section": "Module 1: Blender Basics",
+                "lessons": [
+                    "Introduction to Blender :  Learn the interface, tools, and shortcuts. ",
+                    "Basic 3D Modeling :Create and modify basic shapes for 3D design. " 
+
+                     ]
+            },
+            {
+                "section": "Module 2: Texturing and Rendering",
+                "lessons": [
+                    "Materials and UV Mapping : Apply textures and shaders to models.  ",
+                    "Lighting and Rendering : Create realistic scenes with proper lighting. " 
+                ]
+            },
+            {
+                "section": "Module 3: Animation Basics",
+                "lessons": [
+                    "Rigging and Keyframing :  Learn to rig characters and create animations.  ",
+                    "Animating Scenes : Build short animated sequences with camera movement.  "
+                ]
+            },
+            {
+                "section": "Module 4: Capstone Projects",
+                "lessons": [
+                    "Project 1: Character Design : Model, rig, and texture a 3D character.  ",
+                    "Project 2: Short Animated Film : Develop a 10-second animation with a modeled environment. "
+                ]
+            }
+        ],
+        "faq": [
+            {
+                "question": "Do I need prior 3D experience?",
+                "answer": "No, the course is beginner-friendly."
+            },
+            {
+                "question": "What software is used?",
+                "answer": "Blender, which is free and open-source."
+            },
+            {
+                "question": "Can I pursue game development after this course?",
+                "answer": "Yes, the skills learned are applicable in game design and development."
+            },
+            {
+                "question": "What’s the final outcome of the course?",
+                "answer": "A portfolio of 3D models and animations to showcase your skills. "
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "image": "/courses/AR-VR-.jpg",
+        "name": "AR/VR Development Course",
+        "description": "Immerse yourself in the future of technology with our AR/VR Development Course. Learn to create interactive augmented and virtual reality experiences for applications in gaming, education, and beyond.",
+        "highlights": [
+            {
+                "studentLevel": "Beginner",
+                "duration": "4 Months",
+                "mode": "Online Classes",
+                "certification": "Yes"
+            }
+        ],
+        "whyChoose": [
+            "Stay ahead with cutting-edge AR/VR technologies.",
+            "Build skills in one of the fastest-growing tech fields.",
+            "Develop hands-on projects to showcase in your portfolio.",
+            "Gain knowledge applicable to industries like gaming, healthcare, and education."
+        ],
+        "syllabus": [
+            {
+                "section": "Introduction to AR/VR",
+                "lessons": [
+                    "Understanding AR and VR: Learn the difference between augmented and virtual reality and their applications.",
+                    "Overview of Tools and Platforms: Explore AR/VR development platforms like Unity, Unreal Engine, and ARKit/ARCore.",
+                    "Hardware Integration: Understand how AR/VR hardware like Oculus Rift, HTC Vive, and Microsoft HoloLens works."
+                ]
+            },
+            {
+                "section": "AR Development",
+                "lessons": [
+                    "AR Basics with ARKit/ARCore: Learn to create augmented reality experiences for mobile devices.",
+                    "Image and Object Tracking: Master techniques to track objects and images in real-world environments.",
+                    "Interactivity in AR: Add touch and gesture-based interactivity to AR applications."
+                ]
+            },
+            {
+                "section": "VR Development",
+                "lessons": [
+                    "VR Environment Creation: Learn to design and develop immersive virtual environments.",
+                    "VR Interaction Design: Understand best practices for designing intuitive interactions in VR.",
+                    "Motion Tracking and Controllers: Integrate motion controllers and sensors for dynamic user interactions."
+                ]
+            },
+            {
+                "section": "Individual Project",
+                "lessons": [
+                    "AR Product Visualization: Develop an AR application for visualizing products in real-world environments.",
+                    "VR Simulation: Create a VR simulation for training or entertainment purposes."
+                ]
+            }
+        ],
+        "faq": [
+            {
+                "question": "What are the prerequisites for this course?",
+                "answer": "No prerequisites are required. This course is beginner-friendly."
+            },
+            {
+                "question": "Do I need AR/VR hardware to join?",
+                "answer": "While not mandatory, having access to AR/VR hardware will enhance your learning experience."
+            },
+            {
+                "question": "Can I build AR/VR apps for mobile devices?",
+                "answer": "Yes, the course covers AR/VR development for both mobile and desktop platforms."
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "image": "/courses/Game Design And Development.png",
+        "name": "Game Design and Development Course",
+        "description": "Step into the exciting world of game creation with our Game Design and Development Course. This course equips you with the knowledge and tools to design, develop, and deploy your own games, whether for mobile, PC, or consoles.",
+        "highlights": [
+            {
+                "studentLevel": "Beginner to Intermediate",
+                "duration": "4 Months",
+                "mode": "Online Classes",
+                "certification": "Yes"
+            }
+        ],
+        "whyChoose": [
+            "Learn from experienced game developers.",
+            "Master industry-standard tools like Unity and Unreal Engine.",
+            "Build a professional portfolio with completed game projects.",
+            "Unlock career opportunities in the booming gaming industry."
+        ],
+        "syllabus": [
+            {
+                "section": "Fundamentals of Game Design",
+                "lessons": [
+                    "Introduction to Game Development: Learn the basic principles of game design, including genres, mechanics, and the player experience.",
+                    "Game Engines Overview: Understand how game engines like Unity and Unreal Engine work and their capabilities.",
+                    "Storyboarding and Concept Design: Create compelling game narratives and visual concepts to guide the development process."
+                ]
+            },
+            {
+                "section": "Game Development Essentials",
+                "lessons": [
+                    "Unity Basics: Learn to navigate the Unity interface, manage assets, and create scenes.",
+                    "Scripting with C#: Understand the basics of C# programming to implement game mechanics like movement, interaction, and scoring.",
+                    "Physics and Animation: Master the Unity physics engine to create realistic motion and animations for characters and objects."
+                ]
+            },
+            {
+                "section": "Advanced Game Development",
+                "lessons": [
+                    "Multiplayer Game Development: Learn to implement networking features for multiplayer games, including lobbies and player interactions.",
+                    "Level Design: Understand the principles of creating engaging and balanced game levels using tools like ProBuilder.",
+                    "Publishing Your Game: Learn how to optimize, test, and publish your game on platforms like Steam, Google Play, and App Store."
+                ]
+            },
+            {
+                "section": "Individual Projects",
+                "lessons": [
+                    "2D Platformer Game: Design and develop a complete 2D platformer game with levels, animations, and scoring systems.",
+                    "3D Adventure Game: Create a 3D adventure game with a storyline, challenges, and advanced mechanics."
+                ]
+            }
+        ],
+        "faq": [
+            {
+                "question": "Do I need prior programming knowledge?",
+                "answer": "Basic programming knowledge is helpful but not mandatory. This course will cover the fundamentals."
+                },
+                {
+                "question": "Can I create games for mobile and consoles?",
+                "answer": "Yes, the course covers multi-platform game development for PC, mobile, and consoles."
+                },
+                {
+                "question": "Will I be able to publish games after this course?",
+                "answer": "Yes, the course includes guidance on publishing games to major platforms."
+                }
+            ]
+        }
+        ]

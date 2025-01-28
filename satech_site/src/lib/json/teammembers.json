@@ -1,0 +1,42 @@
+{
+    "domains": [
+      {
+        "name": "AR/VR & Game Development",
+        "members": [
+          {
+            "name": "Naresh S K",
+            "role": "Unity Developer",
+            "linkedin": "https://www.linkedin.com/in/naresh-s-k-aaa35724a"
+          },
+          {
+            "name": "Mukesh kanna N",
+            "role": "Unity Developer",
+            "linkedin": "https://www.linkedin.com/in/mukeshkanna75"
+          }
+        ]
+      },
+      {
+        "name": "3D Animation",
+        "members": [
+          {
+            "name": "Deevith",
+            "role": "3D Generalist",
+            "linkedin": "https://www.linkedin.com/in/deevith-m-1b0729264/"
+          }
+        ]
+      },
+      {
+        "name": "Full Stack Development",
+        "members": [
+  
+        ]
+      },
+      {
+        "name": "Mobile App Development",
+        "members": [
+          
+        ]
+      }
+    ]
+  }
+  
