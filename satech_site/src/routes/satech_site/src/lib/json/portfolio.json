@@ -1,0 +1,24 @@
+{
+    "data1": [
+        { "src": "/projects/prj1.png", "description": "Project 1 Description" },
+        { "src": "/projects/prj2.png" },
+        { "src": "/projects/prj3.png" },
+        { "src": "/projects/prj4.png" },
+        { "src": "/projects/prj5.png" },
+        { "src": "/projects/prj6.png" },
+        { "src": "/projects/prj7.png" },
+        { "src": "/projects/prj8.png" },
+        { "src": "/projects/prj9.png" },
+        { "src": "/projects/prj10.png" }
+    ],
+    "data2": [
+      { "src": "/pics/Axe.jpg", "description": "Project 1 Description" },
+        { "src": "/pics/barrel.png" },
+        { "src": "/pics/carrier.png" },
+        { "src": "/pics/Evee.png" },
+        { "src": "/pics/gunman.png" },
+        { "src": "/pics/hero.png" },
+        { "src": "/pics/room.png" },
+        { "src": "/pics/spaceship.png" },
+        { "src": "/pics/village.png" }    ]
+}
