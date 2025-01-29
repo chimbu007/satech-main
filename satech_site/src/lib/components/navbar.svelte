@@ -21,7 +21,7 @@
     },
     { name: 'Blog', href: '/blog' },
     { name: 'Contact', href: '/contact' },
-    { name: 'Team', href: '/contact' }  
+    { name: 'Team', href: '/team' }  
   ]);
 
   let dropdownVisible = $state(false);
