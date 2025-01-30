@@ -82,6 +82,7 @@
         <h3 class="text-xl font-semibold text-blue-400 mb-4">Developer</h3>
         <p class="text-gray-300 mb-4">Take your coding skills to the next level with expert-led development courses.</p>
         <a href="/courses/developer" class="text-blue-500 hover:text-blue-700">Learn More</a>
+        </div>
       <!-- Still-life Graphic Design Studio -->
       <div class="bg-gray-800 p-6 rounded-lg">
         <h3 class="text-xl font-semibold text-blue-400 mb-4">Still-life Graphic Design Studio</h3>
@@ -89,7 +90,6 @@
         <a href="/courses/still-life-graphic-design-studio" class="text-blue-500 hover:text-blue-700">Learn More</a>
       </div>
       </div>
-    </div>
   </div>
 </section>
 
