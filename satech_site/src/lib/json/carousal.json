@@ -1,41 +1,41 @@
 [
     {
-        "image": "/events/ev (1).jpeg",
+        "image": "/pics/Axe.jpg",
         "alt": "Creative Designs",
         "title": "Creative Designs",
         "description": "Explore unique and innovative designs that bring your ideas to life.",
         "href": "/designs"
     },
     {
-        "image": "/events/ev (2).jpeg",
+        "image": "/pics/barrel.png",
         "alt": "Innovative Solutions",
         "title": "Innovative Solutions",
         "description": "Discover cutting-edge solutions tailored to meet your needs.",
         "href": "/solutions"
     },
     {
-        "image": "/events/ev (3).jpeg",
+        "image": "/pics/carrier.png",
         "alt": "Seamless Integrations",
         "title": "Seamless Integrations",
         "description": "Integrate technology effortlessly with streamlined workflows.",
         "href": "/integrations"
     },
     {
-        "image": "/events/ev (4).jpeg",
+        "image": "/pics/Evee.png",
         "alt": "Expert Support",
         "title": "Expert Support",
         "description": "Count on our dedicated team for expert guidance and support.",
         "href": "/support"
     },
     {
-        "image": "/events/ev (5).jpeg",
+        "image": "/pics/gunman.png",
         "alt": "Advanced Analytics",
         "title": "Advanced Analytics",
         "description": "Leverage data-driven insights to make informed decisions.",
         "href": "/analytics"
     },
     {
-        "image": "/events/ev (6).jpeg",
+        "image": "/pics/hero.png",
         "alt": "Custom Solutions",
         "title": "Custom Solutions",
         "description": "Get personalized solutions designed to fit your unique requirements.",

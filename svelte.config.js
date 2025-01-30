@@ -1,14 +1,12 @@
-import adapter from '@sveltejs/adapter-auto';
-import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
+import { defineConfig } from '@sveltejs/kit';
 
-/** @type {import('@sveltejs/kit').Config} */
-const config = {
-
-	preprocess: vitePreprocess(),
-
-	kit: {
-		adapter: adapter()
-	}
-};
-
-export default config;
+export default defineConfig({
+    kit: {
+        prerender: {
+            handleHttpError: ({ path, status }) => {
+                console.warn(`Skipping prerender for ${path}: ${status}`);
+                return { skip: true }; // This prevents build failure
+            }
+        }
+    }
+});

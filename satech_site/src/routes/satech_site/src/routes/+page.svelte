@@ -70,26 +70,6 @@
 
     <!-- Courses Section -->
     <div class="grid sm:grid-cols-3 grid-cols-1 gap-6">
-      <!-- Wireframing -->
-      <div class="bg-gray-800 p-6 rounded-lg">
-        <h3 class="text-xl font-semibold text-blue-400 mb-4">Wireframing</h3>
-        <p class="text-gray-300 mb-4">Learn how to create effective wireframes for web and mobile apps.</p>
-        <a href="/courses/wireframing" class="text-blue-500 hover:text-blue-700">Learn More</a>
-      </div>
-
-      <!-- Developer -->
-      <div class="bg-gray-800 p-6 rounded-lg">
-        <h3 class="text-xl font-semibold text-blue-400 mb-4">Developer</h3>
-        <p class="text-gray-300 mb-4">Take your coding skills to the next level with expert-led development courses.</p>
-        <a href="/courses/developer" class="text-blue-500 hover:text-blue-700">Learn More</a>
-      </div>
-
-      <!-- Still-life Graphic Design Studio -->
-      <div class="bg-gray-800 p-6 rounded-lg">
-        <h3 class="text-xl font-semibold text-blue-400 mb-4">Still-life Graphic Design Studio</h3>
-        <p class="text-gray-300 mb-4">Master the art of still-life photography and graphic design.</p>
-        <a href="/courses/still-life-graphic-design-studio" class="text-blue-500 hover:text-blue-700">Learn More</a>
-      </div>
     </div>
   </div>
 </section>
@@ -123,7 +103,6 @@
 
 <section class="p-5 flex lg:flex-row-reverse flex-col-reverse" id="contact">
   <div class="flex justify-center w-full">
-    <img src="speaking-phn.png" alt="Man speaking on a phone" class="lg:w-full w-3/4 md:min-w-96 max-w-[1300px] min-w-60 hidden sm:block self-center">
   </div>
   <div class="w-full">
     <div class="flex flex-col">
